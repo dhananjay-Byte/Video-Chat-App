@@ -31,10 +31,11 @@ React, Express.js and socket.io
 ![Screenshot (441)_LI](https://github.com/dhananjay-Byte/Video-Chat-App/assets/82323909/7f817c08-8d37-436a-816b-eee533d292a9)
 
 7. You can mute audio and video of your stream for other user.
-   you screen:
+
+   your screen:
    ![Screenshot (442)_LI](https://github.com/dhananjay-Byte/Video-Chat-App/assets/82323909/1d244734-160a-4448-8714-28d310bd5bb2)
 
    other user screen
    ![Screenshot (443)_LI](https://github.com/dhananjay-Byte/Video-Chat-App/assets/82323909/c9ae9051-bb4c-4436-ae84-026d8acb5f8f)
 
-8. Click on end call button to end the call and you interface will be refreshed and you id will be changed.
+9. Click on end call button to end the call and you interface will be refreshed and you id will be changed.
