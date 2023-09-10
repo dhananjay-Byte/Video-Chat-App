@@ -19,7 +19,7 @@ React, Express.js and socket.io
 2. Type in the display name to show it to other user.
 ![Screenshot (438)_LI](https://github.com/dhananjay-Byte/Video-Chat-App/assets/82323909/09dec08f-7045-4635-b0aa-b7548b7ef969)
 
-3. Copy the your ID and give it to other user so he can call you.
+3. Copy the your ID and give it to other user so he can call you or ask id from other user so you can make a call.
 ![Screenshot (439)_LI](https://github.com/dhananjay-Byte/Video-Chat-App/assets/82323909/15d540ac-c353-4f25-932d-cd3e85a62c9d)
 
 4. Click on make a call button to call the desired user.
